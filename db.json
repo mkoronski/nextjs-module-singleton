@@ -1,0 +1,216 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "city": "New York",
+      "timezone": "GMT-5",
+      "languages": ["English", "Spanish"],
+      "teamIds": [1, 2]
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "city": "Los Angeles",
+      "timezone": "GMT-8",
+      "languages": ["English", "French"],
+      "teamIds": [1, 3]
+    },
+    {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "city": "Chicago",
+      "timezone": "GMT-6",
+      "languages": ["English", "German"],
+      "teamIds": [2, 3]
+    },
+    {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Williams",
+      "city": "Miami",
+      "timezone": "GMT-5",
+      "languages": ["English", "Portuguese"],
+      "teamIds": [1, 4]
+    },
+    {
+      "id": 5,
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "city": "San Francisco",
+      "timezone": "GMT-8",
+      "languages": ["English", "Italian"],
+      "teamIds": [2, 5]
+    },
+    {
+      "id": 6,
+      "firstName": "Dave",
+      "lastName": "Martinez",
+      "city": "Seattle",
+      "timezone": "GMT-7",
+      "languages": ["English", "Russian"],
+      "teamIds": [3, 4]
+    },
+    {
+      "id": 7,
+      "firstName": "Eve",
+      "lastName": "Davis",
+      "city": "Dallas",
+      "timezone": "GMT-6",
+      "languages": ["English", "Mandarin"],
+      "teamIds": [1, 5]
+    },
+    {
+      "id": 8,
+      "firstName": "Frank",
+      "lastName": "Garcia",
+      "city": "Houston",
+      "timezone": "GMT-6",
+      "languages": ["English", "Korean"],
+      "teamIds": [2, 4]
+    },
+    {
+      "id": 9,
+      "firstName": "Grace",
+      "lastName": "Rodriguez",
+      "city": "Phoenix",
+      "timezone": "GMT-7",
+      "languages": ["English", "Japanese"],
+      "teamIds": [3, 5]
+    },
+    {
+      "id": 10,
+      "firstName": "Henry",
+      "lastName": "Hernandez",
+      "city": "Philadelphia",
+      "timezone": "GMT-5",
+      "languages": ["English", "Arabic"],
+      "teamIds": [1, 3]
+    },
+    {
+      "id": 11,
+      "firstName": "Ivy",
+      "lastName": "Lopez",
+      "city": "San Antonio",
+      "timezone": "GMT-6",
+      "languages": ["English", "Dutch"],
+      "teamIds": [2, 1]
+    },
+    {
+      "id": 12,
+      "firstName": "Jack",
+      "lastName": "Wilson",
+      "city": "San Diego",
+      "timezone": "GMT-8",
+      "languages": ["English", "Swedish"],
+      "teamIds": [4, 5]
+    },
+    {
+      "id": 13,
+      "firstName": "Karen",
+      "lastName": "Martinez",
+      "city": "San Jose",
+      "timezone": "GMT-8",
+      "languages": ["English", "Finnish"],
+      "teamIds": [1, 4]
+    },
+    {
+      "id": 14,
+      "firstName": "Larry",
+      "lastName": "Miller",
+      "city": "Austin",
+      "timezone": "GMT-6",
+      "languages": ["English", "Greek"],
+      "teamIds": [2, 3]
+    },
+    {
+      "id": 15,
+      "firstName": "Mona",
+      "lastName": "Taylor",
+      "city": "Jacksonville",
+      "timezone": "GMT-5",
+      "languages": ["English", "Cantonese"],
+      "teamIds": [1, 2]
+    },
+    {
+      "id": 16,
+      "firstName": "Nina",
+      "lastName": "Anderson",
+      "city": "Columbus",
+      "timezone": "GMT-5",
+      "languages": ["English", "Thai"],
+      "teamIds": [4, 5]
+    },
+    {
+      "id": 17,
+      "firstName": "Oscar",
+      "lastName": "Thomas",
+      "city": "Charlotte",
+      "timezone": "GMT-5",
+      "languages": ["English", "Vietnamese"],
+      "teamIds": [2, 1]
+    },
+    {
+      "id": 18,
+      "firstName": "Paula",
+      "lastName": "Jackson",
+      "city": "San Francisco",
+      "timezone": "GMT-8",
+      "languages": ["English", "Turkish"],
+      "teamIds": [3, 4]
+    },
+    {
+      "id": 19,
+      "firstName": "Quincy",
+      "lastName": "White",
+      "city": "Indianapolis",
+      "timezone": "GMT-5",
+      "languages": ["English", "Romanian"],
+      "teamIds": [5, 2]
+    },
+    {
+      "id": 20,
+      "firstName": "Rachel",
+      "lastName": "Harris",
+      "city": "Washington",
+      "timezone": "GMT-5",
+      "languages": ["English", "Hungarian"],
+      "teamIds": [4, 3]
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Developers",
+      "location": "New York",
+      "managerId": 1
+    },
+    {
+      "id": 2,
+      "name": "Designers",
+      "location": "San Francisco",
+      "managerId": 2
+    },
+    {
+      "id": 3,
+      "name": "Product Managers",
+      "location": "Chicago",
+      "managerId": 3
+    },
+    {
+      "id": 4,
+      "name": "Marketing",
+      "location": "Los Angeles",
+      "managerId": 4
+    },
+    {
+      "id": 5,
+      "name": "Sales",
+      "location": "Miami",
+      "managerId": 5
+    }
+  ]
+}
